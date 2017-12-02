@@ -1,5 +1,8 @@
 # Udacity Data Analyst Nanodegree Completed Projects
 
+
+[CERTIFICATION] (https://github.com/serdarozsoy/udacity-data-analyst-nanodegree/blob/master/Udacity_Data_Analyst_Nanodegree.pdf)
+
 **Project1: Analyze Bay Area Bike Share Data**
 
 Analyzing data from a bike share company found in the San Francisco Bay Area by using key steps of the data analysis process . 
