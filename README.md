@@ -1,7 +1,6 @@
 # Udacity Data Analyst Nanodegree Completed Projects
 
-
-[CERTIFICATION] (https://github.com/serdarozsoy/udacity-data-analyst-nanodegree/blob/master/Udacity_Data_Analyst_Nanodegree.pdf)
+[CRETIFICATION](https://github.com/serdarozsoy/udacity-data-analyst-nanodegree/blob/master/Udacity_Data_Analyst_Nanodegree.pdf)
 
 **Project1: Analyze Bay Area Bike Share Data**
 
